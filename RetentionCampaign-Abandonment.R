@@ -1,4 +1,3 @@
-knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 options(width=100)
 
 library(knitr)
