@@ -1,5 +1,3 @@
-options(width=100)
-
 library(knitr)
 library(dplyr)
 library(ggplot2)
