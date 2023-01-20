@@ -1,6 +1,6 @@
-# Datos: muestra de clientes de una compañía de telecomunicaciones. 
-Enlace para descargar los datos de Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn
+# Data  
+Customer data from a telecommunication company. The data can be found here: https://www.kaggle.com/blastchar/telco-customer-churn
 
-# Objetivos
-+ Modelo predictivo (Logistic Regression). Predecir los clientes en riesgo de cambiar de compañía (se suele denominar “churn” en inglés) en el mes en curso.
-+ Simulación de una campaña para retener a los clientes.
+# Problem to solve
++ Predict customer churn for the current month. I will use Logistic Regression for the predictive model.
++ Simulate and evaluate retention campaigns consisting on gifts and permanence discounts.
